@@ -3,7 +3,7 @@ DIR=`dirname $0`
 PROJECTSPATH=/var/www/projects
 TESTRUNNERPATH=$PROJECTSPATH/testrunner/dev
 RUNLOG=/tmp/testsrunlog
-#dddff
+#dddffkkkk
 if  [ -e /tmp/testsrunning ] 
 then
   echo >> $RUNLOG
