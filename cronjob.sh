@@ -4,7 +4,7 @@ PROJECTSPATH=/var/www/projects
 TESTRUNNERPATH=$PROJECTSPATH/testrunner/dev
 RUNLOG=/tmp/testsrunlog
 #dddffkkkksdfgsdfgsdfg  eeeeeeezxgfasdfasdfeeeeeeeeeeff  
-#hjjjjjjjjjjjjjjjjjjj
+#hjjjjjjjjjjjjjjjjjjj b7d1af94be600cd88b4b7989d0f8dff0c19a2644 
 if  [ -e /tmp/testsrunning ] 
 then
   echo >> $RUNLOG
