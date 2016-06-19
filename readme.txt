@@ -24,7 +24,7 @@ Site Setup
 - using bitbucket or github website as admin, create webhook call for project to call webhook at http://webhook.code.2pisoftware.com triggered by push requests
 
 
-TEST
+TESTasdfasdfasd
 - run tests manually
 reponame=cmfive
 . /var/www/tools/testrunner/setenvironment.sh /var/www/projects/$reponame/environment.csv
